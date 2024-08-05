@@ -1,7 +1,7 @@
 title: WAVE
 desciption: >
   Website of the WAVE seismic network Hamburg
-email: yourusername@gmail.com
+email: isleifk@hsu-hh.de
 baseurl: "/index" # the subpath of your site, e.g. /blog
 #replace nrdybhu1.github.io with your domainname.com
 url: "https://kisleif.github.io/WAVEhamburg.github.io/"" # the base hostname & protocol for your site
