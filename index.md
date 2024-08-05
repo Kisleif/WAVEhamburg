@@ -1,5 +1,5 @@
 ---
-title: Welcome to Pippim
+title: WAVE
 layout: default
 ---
 
