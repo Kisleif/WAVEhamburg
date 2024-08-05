@@ -1,3 +1,3 @@
 ---
-title: WAVE
+title: WAVE seismic network Hamburg
 ---
