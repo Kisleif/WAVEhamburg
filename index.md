@@ -1,5 +1,5 @@
 ---
-title: WAVE
+title: WAVE Hamburg Seismic Network
 layout: default
 ---
 
