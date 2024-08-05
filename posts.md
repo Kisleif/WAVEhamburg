@@ -2,5 +2,5 @@
 layout: post
 title: News
 permalink: /posts/
-redirect_from: /posts.html
+redirect_from: blog/posts.html
 ---
