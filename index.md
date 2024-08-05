@@ -1,6 +1,5 @@
 ---
 title: WAVE Hamburg Seismic Network
-layout: default
 ---
 
 # WAVE Hamburg Seismic Network
